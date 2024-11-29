@@ -1,3 +1,5 @@
 print("New Hello Git with changes!")
 print("com estas commit, sigo editando el fichero")
-print("com estas commit, sigo editando el fichero")
+print("com estas commit, sigo editando el fichero 1")
+print("com estas commit, sigo editando el fichero 2")
+print("com estas commit, espero se vean mis cambios")
