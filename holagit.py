@@ -1,2 +1,3 @@
 print("nuevo commit, hola nuevo commit")
-print("com estas commit, sigo editando el fichero")
+print("Es la segunda prueba con GitHub")
+print("Es la tercera prueba con GitHub")
